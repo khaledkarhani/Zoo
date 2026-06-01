@@ -1,0 +1,23 @@
+.btn1 {
+  margin: 15px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 25px;
+  background: green;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn2 {
+  margin: 15px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 25px;
+  background: orange;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
